@@ -1,0 +1,86 @@
+/* 
+.calculator{
+    width:400px;
+    padding:40px;
+    background-color: black;
+    border-radius: 20px;
+    margin:100px auto;
+}
+.calculator #inner p{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.calculator #inner marquee{
+    color:red;
+    font-size: 30px;
+    font-weight: 700;
+}
+.calculator #inner{
+    width:100%;
+    background-color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.calculator .table_one{
+    width: 100%;
+    margin-top: 30px;
+}
+.calculator .table_one table tr td{
+    font-size: 30px;
+    font-weight: 700;
+    background-color: red;
+    border: 1px solid #fff;
+    padding: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+   
+}  
+
+
+/* second calculator-------------------------------------------- */
+
+
+
+.calculator{
+    width: 400px;
+    padding: 30px;
+    background-color: rgb(165, 94, 94);
+    margin: 200px auto;
+    border: 3px solid rgb(109, 93, 126);
+    border-radius: 10px;
+}
+
+.calculator input{
+    width: 100%;
+    padding: 30px;
+    border:0;
+    outline: none;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.calculator table{
+  
+    width: 100%;
+    margin-top:30px;
+}
+.calculator table tr td{
+    font-size: 25px;
+    font-weight: 700;
+    border: 0;
+    width: 25px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(245, 125, 125, 0.562);
+    outline: none;
+    transition: all o.3s;
+    border-radius: 5px;
+    color: rgb(94, 20, 20);
+    
+}
+.calculator table tr td:hover{
+    background-color: rgb(248, 214, 243);
+    transform: scale(1.03);
+    cursor: pointer;
+} */
